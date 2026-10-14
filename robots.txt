@@ -1,5 +1,4 @@
-User-Agent: *
+User-agent: *
 Allow: /
 
-Host: https://8hi1.com
 Sitemap: https://8hi1.com/sitemap.xml

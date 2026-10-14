@@ -1,11 +1,11 @@
 {
-  "name": "8HI1 Guide",
+  "name": "8HI Game",
   "short_name": "8HI",
-  "description": "Official 8HI app and game information.",
+  "description": "8HI Game mobile Android APK and download guide.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#170607",
-  "theme_color": "#ff8a2b",
+  "background_color": "#0d0504",
+  "theme_color": "#b61817",
   "icons": [
     {
       "src": "/icon-192.png",
